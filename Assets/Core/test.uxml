@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:IntegerField label="Energy" value="42" name="Energy" style="width: 342px; align-items: flex-start; justify-content: flex-end; align-self: center;" />
+    <ui:Button text="End Turn" name="endTurn" icon-image="project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=-4521532143779581420&amp;guid=5100ce8f2cea745a5a3bc4aa06e5b7ad&amp;type=3#arrow-right" />
+</ui:UXML>
